@@ -1,6 +1,6 @@
 # OVERVIEW
 
-This project delves into cross-border activities along the United States borders from 1996 to 2020, with the primary objective of identifying and understanding patterns and trends that unravel at these borders. The ultimate goal of this analysis is to provide valuable insights that can inform decisions related to security, accessibility, and trade and foster stronger economic relations between neighboring countries.
+This project delves into cross-border activities along the United States borders from 1996 to 2020, with the primary objective of identifying and understanding patterns and trends that unravel at these borders. The ultimate goal of this analysis is to provide valuable insights that can inform decisions related to security, accessibility, and trade and foster stronger economic relations between the neighboring countries.
 
 # DATA SOURCE
 
@@ -8,14 +8,14 @@ The dataset used for this project was obtained from Kaggle
 
 # RESULTS
 1. **Top States for Border Crossing:**
-2. 
+ 
   **USA-Canada border**
 
  **a)**	Washington stands out as the foremost destination for individuals entering the United States.
  
  **b)**	Maine and New York closely follow in descending order.
 
- **USA-Mexico border**
+  **USA-Mexico border**
 
  **a)** Texas stands out as the foremost destination for individuals entering the United States.
 
